@@ -17,11 +17,6 @@ Java EE web application for managing events and participant registrations.
 
 Create database:
 
-```sql
-CREATE DATABASE event_board;
-USE event_board;
-```
-
 Create table events:
 
 ```sql
